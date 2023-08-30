@@ -1,4 +1,4 @@
-![logo](https://github.com/Sana348/Sana348/blob/main/Hi%2C%20I'm%20Sana%20Parveen%20A%20Developer%20who%20likes%20to%20code1.png)
+![logo](https://github.com/ifshivam/ifshivam/blob/main/cover-page.png)
 <h1 align="center">Hi 👋, I'm Shivam Rai</h1>
 <h2 align="left"> ✨ About me </h2>
 <h3 align="left">
