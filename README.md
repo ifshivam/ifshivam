@@ -12,7 +12,7 @@ Beyond the screen, I'm a holistic developer. Effective communication, adaptabili
 
 With Java at the core of my being and Springing forward with Spring Boot, I'm poised to make a meaningful impact in the world of software engineering. Let's code a brighter future together!
  </h3>
-<img align="right" alt="Coding" width="400" src ="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" border-radius="50%" src ="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sana348&label=Profile%20views&color=0e75b6&style=flat" alt="sana348" /> </p>
 
