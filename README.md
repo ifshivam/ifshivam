@@ -37,5 +37,5 @@ With Java at the core of my being and Springing forward with Spring Boot, I'm po
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifshivam&show_icons=true&locale=en&layout=compact" alt="sana348" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ifshivam&show_icons=true&locale=en" alt="sana348" /></p>
+
 
