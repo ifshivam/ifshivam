@@ -35,7 +35,7 @@ With Java at the core of my being and Springing forward with Spring Boot, I'm po
 <a href="https://www.linkedin.com/in/shivam-rai-540182199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-rai-540182199/" height="30" width="40" /></a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifshivam&show_icons=true&locale=en&layout=compact" alt="sana348" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ifshivam&show_icons=true&locale=en&layout=compact" alt="sana348" /></p>
 
 
 
